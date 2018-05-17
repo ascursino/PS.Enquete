@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{00bfea71-de22-43b2-a848-c05709900100}" TemplateType="100" Title="Enquete" Description="" Url="Lists/Enquete" CustomSchema="Files\Lists\Enquete\Schema.xml" HyperlinkBaseUrl="http://sspcpd23:10000/SCP" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

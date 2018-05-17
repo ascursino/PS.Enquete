@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6bd6aa10-2576-4af0-aa87-dbaec88ef894" solutionId="89e29537-ab44-405d-b202-3eab72152059" resetWebServer="false" name="Amorim.App.Enquete" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="f3a3664f-9b53-41f8-a774-29b9d880d50c" />
+    <featureReference itemId="d052d8e7-1ec5-4b5b-865c-eff59b24384c" />
+    <featureReference itemId="7824f3a4-f954-4d9d-ba97-5fb8b6478633" />
+    <featureReference itemId="d9d7ef3b-f5f7-403b-a956-0df9d28682ae" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="51890ffb-c4ae-478c-882e-e2b96f6aa1e1" />
+  </projectItems>
+</package>

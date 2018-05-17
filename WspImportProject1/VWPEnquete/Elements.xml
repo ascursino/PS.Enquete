@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="VWPEnquete" List="113" Url="_catalogs/wp">
+    <File Path="VWPEnquete\VWPEnquete.webpart" Url="VWPEnquete.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Amorim" />
+    </File>
+  </Module>
+</Elements>

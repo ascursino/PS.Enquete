@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Amorim.App.Enquete.VWPEnquete.VWPEnquete, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Visual Web Part Enquete</property>
+        <property name="Description" type="string">Visual Web Part Enquete</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
